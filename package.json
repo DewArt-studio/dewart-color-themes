@@ -1,0 +1,21 @@
+{
+  "name": "dewart-color-themes",
+  "displayName": "dewart-color-themes",
+  "description": "fish",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "dewart",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dewart-color-theme.json"
+      }
+    ]
+  }
+}
