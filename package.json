@@ -1,7 +1,8 @@
 {
   "name": "dewart-color-themes",
+  "publisher": "dewart",
   "displayName": "dewart-color-themes",
-  "description": "fish",
+  "description": "Color theme in our corporate colors",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.76.0"
@@ -9,6 +10,12 @@
   "categories": [
     "Themes"
   ],
+  "author": {"name": "dewart", "email": "dewart@internet.ru", "url": "https://dewart.ru"},
+  "icon": "images/icon.png",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/DewArt-studio/dewart-color-themes.git"
+  },
   "contributes": {
     "themes": [
       {
