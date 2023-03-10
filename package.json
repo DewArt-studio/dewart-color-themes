@@ -3,7 +3,7 @@
   "publisher": "dewart",
   "displayName": "dewart-color-themes",
   "description": "Color theme in our corporate colors",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.76.0"
   },
